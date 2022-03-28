@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DAZleH1xCig9X/xrCzS9qgqvr5iz4+qW/MeRb5ix1alFenHeQ9PMoOVVRVXKz+FbCSpuZDFbGvUZSPfoylY6Vg==",
+  "success": true,
+  "projectFilePath": "G:\\AMPharmacy - repo\\AMPharmacy\\AMPharmacyAPI\\AMPharmacyAPI\\AMPharmacyAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aleksa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Aleksa\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Aleksa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Aleksa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Aleksa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
